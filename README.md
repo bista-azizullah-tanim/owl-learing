@@ -1,2 +1,2 @@
 # owl-learing
-learning element of owl library
+learning elements of OWL library
